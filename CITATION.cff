@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "IDBD Toolkit"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: Anonymous
+    given-names: Author
+    affiliation: Anonymous Institution
+    email: anonymous@example.org
+keywords:
+  - inquiry-driven big data
+  - abduction
+  - inference to the best explanation
+  - Bayesian belief updating
+  - management research methods
+repository-code: "https://github.com/anonymous/idbd_toolkit"
+preferred-citation:
+  type: unpublished
+  title: "The Reconfiguration of Pragmatist Inquiry: An Experimental Platform for Designing Human-AI Theory Building"
+  authors:
+    - family-names: Anonymous
+      given-names: Author
+      affiliation: Anonymous Institution
+  year: 2026
+  notes: "Manuscript under review."
